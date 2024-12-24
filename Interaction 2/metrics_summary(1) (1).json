@@ -1,0 +1,7 @@
+{
+    "total_actions": 18,
+    "successful_finds": 2,
+    "failed_finds": 1,
+    "communication_turns_human": 4,
+    "communication_turns_agent": 154
+}

@@ -1,0 +1,1369 @@
+[
+    {
+        "speaker": "System",
+        "utterance": "Starting object search.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:51:09.134677Z",
+        "context": {
+            "current_floorplan": "FloorPlan1_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "Human",
+        "utterance": "saltshaker",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:53:10.251168Z",
+        "context": {
+            "current_floorplan": "FloorPlan1_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Exploring the room to detect visible objects.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:53:37.410274Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "RotateRight",
+        "action": "agent_action",
+        "timestamp": "2024-12-23T13:53:40.562449Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "RotateRight",
+        "action": "agent_action",
+        "timestamp": "2024-12-23T13:53:46.322023Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "RotateRight",
+        "action": "agent_action",
+        "timestamp": "2024-12-23T13:53:50.865641Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "RotateRight",
+        "action": "agent_action",
+        "timestamp": "2024-12-23T13:53:53.907263Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "MoveAhead",
+        "action": "agent_action",
+        "timestamp": "2024-12-23T13:53:56.551200Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "MoveLeft",
+        "action": "agent_action",
+        "timestamp": "2024-12-23T13:53:59.196248Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "MoveRight",
+        "action": "agent_action",
+        "timestamp": "2024-12-23T13:54:01.797581Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "MoveBack",
+        "action": "agent_action",
+        "timestamp": "2024-12-23T13:54:05.681859Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Objects found during exploration.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.689985Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Apple with ID Apple|-02.48|+01.18|+00.48 at position {'x': -2.4803569316864014, 'y': 1.1838109493255615, 'z': 0.48038527369499207}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.690146Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Bowl with ID Bowl|-00.50|+01.04|+02.22 at position {'x': -0.4950042963027954, 'y': 1.0423567295074463, 'z': 2.2238383293151855}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.690247Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Bread with ID Bread|-00.18|+01.12|+01.89 at position {'x': -0.18400000035762787, 'y': 1.1191563606262207, 'z': 1.8919998407363892}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.690334Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object ButterKnife with ID ButterKnife|-02.63|+01.11|+00.60 at position {'x': -2.6268417835235596, 'y': 1.1144338846206665, 'z': 0.6035599708557129}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.690449Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Cabinet with ID Cabinet|-01.73|+00.39|+00.73 at position {'x': -1.7339999675750732, 'y': 0.3934389650821686, 'z': 0.7342041730880737}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.690548Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Cabinet with ID Cabinet|-01.00|+00.39|+00.73 at position {'x': -1.0016310214996338, 'y': 0.3934389650821686, 'z': 0.7342041730880737}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.690636Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object CoffeeMachine with ID CoffeeMachine|-00.15|+01.04|+03.19 at position {'x': -0.15399916470050812, 'y': 1.038238286972046, 'z': 3.1939961910247803}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.690722Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object CounterTop with ID CounterTop|-00.52|+01.16|+00.49 at position {'x': -0.5149999856948853, 'y': 1.1604000329971313, 'z': 0.492000013589859}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.690821Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object CounterTop with ID CounterTop|-02.28|+01.16|+00.38 at position {'x': -2.2808001041412354, 'y': 1.1604000329971313, 'z': 0.3790000081062317}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.690908Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object CounterTop with ID CounterTop|-03.86|+01.16|+00.38 at position {'x': -3.856300115585327, 'y': 1.1604000329971313, 'z': 0.3790000081062317}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.690996Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Cup with ID Cup|-01.58|+00.92|+00.34 at position {'x': -1.5814025402069092, 'y': 0.9212753176689148, 'z': 0.3392183780670166}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.691110Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object DiningTable with ID DiningTable|-00.62|+00.02|+02.49 at position {'x': -0.6200000047683716, 'y': 0.017468463629484177, 'z': 2.4860000610351562}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.691272Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object DishSponge with ID DishSponge|-01.12|+01.15|+00.09 at position {'x': -1.11899995803833, 'y': 1.1464545726776123, 'z': 0.09300001710653305}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.691408Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Drawer with ID Drawer|-02.50|+00.61|+00.59 at position {'x': -2.498199939727783, 'y': 0.6082893013954163, 'z': 0.5947973728179932}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.691513Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Drawer with ID Drawer|-02.50|+00.22|+00.59 at position {'x': -2.498199939727783, 'y': 0.2160000056028366, 'z': 0.5947973728179932}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.691624Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Drawer with ID Drawer|-02.04|+00.61|+00.59 at position {'x': -2.0430305004119873, 'y': 0.6082893013954163, 'z': 0.5947973728179932}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.691775Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Drawer with ID Drawer|-02.04|+00.22|+00.59 at position {'x': -2.0430305004119873, 'y': 0.2160000056028366, 'z': 0.5947973728179932}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.691878Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Drawer with ID Drawer|-02.04|+00.94|+00.60 at position {'x': -2.0430307388305664, 'y': 0.9379069209098816, 'z': 0.599658727645874}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.692022Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Drawer with ID Drawer|-02.51|+00.94|+00.60 at position {'x': -2.509700059890747, 'y': 0.9379069209098816, 'z': 0.599658727645874}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.692123Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Egg with ID Egg|-03.37|+01.30|+02.85 at position {'x': -3.365222692489624, 'y': 1.2986496686935425, 'z': 2.8507089614868164}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.692225Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Faucet with ID Faucet|-01.37|+01.14|+00.13 at position {'x': -1.3700000047683716, 'y': 1.1430000066757202, 'z': 0.12999999523162842}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.692308Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Floor with ID Floor|+00.00|+00.00|+00.00 at position {'x': 0.0, 'y': 0.0, 'z': 0.0}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.692399Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Fork with ID Fork|-00.46|+01.04|+01.78 at position {'x': -0.46092280745506287, 'y': 1.0389518737792969, 'z': 1.7759908437728882}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.692488Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Fridge with ID Fridge|-03.52|+00.00|+02.72 at position {'x': -3.5190000534057617, 'y': 0.0, 'z': 2.7170000076293945}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.693136Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object GarbageCan with ID GarbageCan|-03.70|+00.00|+02.01 at position {'x': -3.6960792541503906, 'y': 0.0022295117378234863, 'z': 2.0087831020355225}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.693296Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object HousePlant with ID HousePlant|-02.16|+01.10|+00.17 at position {'x': -2.1559953689575195, 'y': 1.1011769771575928, 'z': 0.16899897158145905}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.693399Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Knife with ID Knife|-01.48|+00.93|+00.42 at position {'x': -1.4800081253051758, 'y': 0.9279404282569885, 'z': 0.4189891517162323}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.693499Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Ladle with ID Ladle|-01.95|+01.14|+00.45 at position {'x': -1.9519054889678955, 'y': 1.1398009061813354, 'z': 0.4491676390171051}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.693601Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Lettuce with ID Lettuce|-03.31|+00.97|+03.04 at position {'x': -3.309978485107422, 'y': 0.9700214266777039, 'z': 3.0446419715881348}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.693692Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object LightSwitch with ID LightSwitch|-02.58|+01.30|+03.50 at position {'x': -2.5840001106262207, 'y': 1.2999999523162842, 'z': 3.5}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.693793Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Microwave with ID Microwave|-00.37|+01.11|+00.43 at position {'x': -0.3667587339878082, 'y': 1.1131519079208374, 'z': 0.43327492475509644}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.693887Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Mug with ID Mug|-00.38|+01.09|+03.19 at position {'x': -0.37788355350494385, 'y': 1.0947641134262085, 'z': 3.194011688232422}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.693988Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Pan with ID Pan|-00.27|+01.04|+02.56 at position {'x': -0.26600518822669983, 'y': 1.0387147665023804, 'z': 2.5610129833221436}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.694083Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object PepperShaker with ID PepperShaker|-03.76|+01.11|+00.39 at position {'x': -3.760021686553955, 'y': 1.11317777633667, 'z': 0.3863828182220459}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.694171Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Plate with ID Plate|-01.19|+00.92|+00.40 at position {'x': -1.1936101913452148, 'y': 0.9215012788772583, 'z': 0.4032553434371948}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.694257Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Pot with ID Pot|-03.00|+01.14|+00.48 at position {'x': -2.998042106628418, 'y': 1.1373010873794556, 'z': 0.48097944259643555}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.694343Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Potato with ID Potato|-02.66|+01.15|+00.25 at position {'x': -2.6638760566711426, 'y': 1.1456565856933594, 'z': 0.24842269718647003}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.694434Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object SaltShaker with ID SaltShaker|-03.76|+01.11|+00.52 at position {'x': -3.759982109069824, 'y': 1.1131768226623535, 'z': 0.5176938772201538}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.694524Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Sink with ID Sink|-01.39|+00.98|+00.44 at position {'x': -1.3940000534057617, 'y': 0.9829999804496765, 'z': 0.4390999972820282}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.694612Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object SinkBasin with ID Sink|-01.39|+00.98|+00.44|SinkBasin at position {'x': -1.3894000053405762, 'y': 0.9210000038146973, 'z': 0.42879998683929443}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.694704Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object SoapBottle with ID SoapBottle|-00.89|+01.11|+00.19 at position {'x': -0.8880954384803772, 'y': 1.113277792930603, 'z': 0.193407341837883}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.694790Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Spatula with ID Spatula|-00.81|+01.12|+00.53 at position {'x': -0.8108456134796143, 'y': 1.1205116510391235, 'z': 0.5339738726615906}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.694891Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Spoon with ID Spoon|-00.43|+01.04|+01.90 at position {'x': -0.4319818913936615, 'y': 1.0385233163833618, 'z': 1.901995062828064}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.695029Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object StoveBurner with ID StoveBurner|-03.00|+01.10|+00.23 at position {'x': -3.000499963760376, 'y': 1.0978000164031982, 'z': 0.22709998488426208}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.695143Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object StoveBurner with ID StoveBurner|-03.48|+01.10|+00.23 at position {'x': -3.4749999046325684, 'y': 1.0978000164031982, 'z': 0.22709999978542328}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.695338Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object StoveBurner with ID StoveBurner|-03.00|+01.10|+00.48 at position {'x': -3.0004994869232178, 'y': 1.0978000164031982, 'z': 0.48000001907348633}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.695471Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object StoveBurner with ID StoveBurner|-03.48|+01.10|+00.48 at position {'x': -3.4749999046325684, 'y': 1.0978000164031982, 'z': 0.47999998927116394}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.695564Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object StoveKnob with ID StoveKnob|-03.16|+01.05|+00.71 at position {'x': -3.164900064468384, 'y': 1.0537590980529785, 'z': 0.7097796201705933}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.695679Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object StoveKnob with ID StoveKnob|-03.49|+01.05|+00.71 at position {'x': -3.4921998977661133, 'y': 1.0537590980529785, 'z': 0.7097796201705933}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.695770Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object StoveKnob with ID StoveKnob|-02.99|+01.05|+00.71 at position {'x': -2.985118865966797, 'y': 1.0537590980529785, 'z': 0.7097796201705933}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.695883Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object StoveKnob with ID StoveKnob|-03.32|+01.05|+00.71 at position {'x': -3.322700023651123, 'y': 1.0537590980529785, 'z': 0.7097796201705933}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.695984Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Toaster with ID Toaster|-00.23|+01.04|+02.87 at position {'x': -0.22500252723693848, 'y': 1.038238525390625, 'z': 2.865999698638916}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.696073Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Tomato with ID Tomato|-00.75|+01.08|+02.40 at position {'x': -0.7468804121017456, 'y': 1.0815151929855347, 'z': 2.3995256423950195}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.696162Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Window with ID Window|-01.39|+01.93|+00.02 at position {'x': -1.3940000534057617, 'y': 1.9249999523162842, 'z': 0.014999999664723873}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.696275Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Found object Window with ID Window|-03.27|+01.93|+00.02 at position {'x': -3.2660000324249268, 'y': 1.9249999523162842, 'z': 0.014999999664723873}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.696364Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "You are currently in the Floor Plan 4.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.696443Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Confirming candidates based on your description.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.697893Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": [
+                "Apple",
+                "Bowl",
+                "Bread",
+                "ButterKnife",
+                "Cabinet",
+                "Cabinet",
+                "CoffeeMachine",
+                "CounterTop",
+                "CounterTop",
+                "CounterTop",
+                "Cup",
+                "DiningTable",
+                "DishSponge",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Egg",
+                "Faucet",
+                "Floor",
+                "Fork",
+                "Fridge",
+                "GarbageCan",
+                "HousePlant",
+                "Knife",
+                "Ladle",
+                "Lettuce",
+                "LightSwitch",
+                "Microwave",
+                "Mug",
+                "Pan",
+                "PepperShaker",
+                "Plate",
+                "Pot",
+                "Potato",
+                "SaltShaker",
+                "Sink",
+                "SinkBasin",
+                "SoapBottle",
+                "Spatula",
+                "Spoon",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "Toaster",
+                "Tomato",
+                "Window",
+                "Window"
+            ]
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Filtered candidates: ['SaltShaker'].",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.926466Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": [
+                "Apple",
+                "Bowl",
+                "Bread",
+                "ButterKnife",
+                "Cabinet",
+                "Cabinet",
+                "CoffeeMachine",
+                "CounterTop",
+                "CounterTop",
+                "CounterTop",
+                "Cup",
+                "DiningTable",
+                "DishSponge",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Egg",
+                "Faucet",
+                "Floor",
+                "Fork",
+                "Fridge",
+                "GarbageCan",
+                "HousePlant",
+                "Knife",
+                "Ladle",
+                "Lettuce",
+                "LightSwitch",
+                "Microwave",
+                "Mug",
+                "Pan",
+                "PepperShaker",
+                "Plate",
+                "Pot",
+                "Potato",
+                "SaltShaker",
+                "Sink",
+                "SinkBasin",
+                "SoapBottle",
+                "Spatula",
+                "Spoon",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "Toaster",
+                "Tomato",
+                "Window",
+                "Window"
+            ]
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Orienting towards the SaltShaker located at position {'x': -3.759982109069824, 'y': 1.1131768226623535, 'z': 0.5176938772201538}.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:05.926822Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": [
+                "Apple",
+                "Bowl",
+                "Bread",
+                "ButterKnife",
+                "Cabinet",
+                "Cabinet",
+                "CoffeeMachine",
+                "CounterTop",
+                "CounterTop",
+                "CounterTop",
+                "Cup",
+                "DiningTable",
+                "DishSponge",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Egg",
+                "Faucet",
+                "Floor",
+                "Fork",
+                "Fridge",
+                "GarbageCan",
+                "HousePlant",
+                "Knife",
+                "Ladle",
+                "Lettuce",
+                "LightSwitch",
+                "Microwave",
+                "Mug",
+                "Pan",
+                "PepperShaker",
+                "Plate",
+                "Pot",
+                "Potato",
+                "SaltShaker",
+                "Sink",
+                "SinkBasin",
+                "SoapBottle",
+                "Spatula",
+                "Spoon",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "Toaster",
+                "Tomato",
+                "Window",
+                "Window"
+            ]
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "I have displayed an image of the SaltShaker at ./images/SaltShaker_1734962052.png.",
+        "action": "image_capture",
+        "object_name": "SaltShaker",
+        "object_type": "SaltShaker",
+        "bounds": {
+            "x": -3.759982109069824,
+            "y": 1.1131768226623535,
+            "z": 0.5176938772201538
+        },
+        "timestamp": "2024-12-23T13:54:12.673911Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": [
+                "Apple",
+                "Bowl",
+                "Bread",
+                "ButterKnife",
+                "Cabinet",
+                "Cabinet",
+                "CoffeeMachine",
+                "CounterTop",
+                "CounterTop",
+                "CounterTop",
+                "Cup",
+                "DiningTable",
+                "DishSponge",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Egg",
+                "Faucet",
+                "Floor",
+                "Fork",
+                "Fridge",
+                "GarbageCan",
+                "HousePlant",
+                "Knife",
+                "Ladle",
+                "Lettuce",
+                "LightSwitch",
+                "Microwave",
+                "Mug",
+                "Pan",
+                "PepperShaker",
+                "Plate",
+                "Pot",
+                "Potato",
+                "SaltShaker",
+                "Sink",
+                "SinkBasin",
+                "SoapBottle",
+                "Spatula",
+                "Spoon",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "Toaster",
+                "Tomato",
+                "Window",
+                "Window"
+            ]
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "I have displayed an image of the SaltShaker at ./images/SaltShaker_1734962052.png.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:12.674019Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": [
+                "Apple",
+                "Bowl",
+                "Bread",
+                "ButterKnife",
+                "Cabinet",
+                "Cabinet",
+                "CoffeeMachine",
+                "CounterTop",
+                "CounterTop",
+                "CounterTop",
+                "Cup",
+                "DiningTable",
+                "DishSponge",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Egg",
+                "Faucet",
+                "Floor",
+                "Fork",
+                "Fridge",
+                "GarbageCan",
+                "HousePlant",
+                "Knife",
+                "Ladle",
+                "Lettuce",
+                "LightSwitch",
+                "Microwave",
+                "Mug",
+                "Pan",
+                "PepperShaker",
+                "Plate",
+                "Pot",
+                "Potato",
+                "SaltShaker",
+                "Sink",
+                "SinkBasin",
+                "SoapBottle",
+                "Spatula",
+                "Spoon",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "Toaster",
+                "Tomato",
+                "Window",
+                "Window"
+            ]
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Displayed object SaltShaker with ID SaltShaker|-03.76|+01.11|+00.52.",
+        "action": "agent_action",
+        "timestamp": "2024-12-23T13:54:12.674072Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": [
+                "Apple",
+                "Bowl",
+                "Bread",
+                "ButterKnife",
+                "Cabinet",
+                "Cabinet",
+                "CoffeeMachine",
+                "CounterTop",
+                "CounterTop",
+                "CounterTop",
+                "Cup",
+                "DiningTable",
+                "DishSponge",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Egg",
+                "Faucet",
+                "Floor",
+                "Fork",
+                "Fridge",
+                "GarbageCan",
+                "HousePlant",
+                "Knife",
+                "Ladle",
+                "Lettuce",
+                "LightSwitch",
+                "Microwave",
+                "Mug",
+                "Pan",
+                "PepperShaker",
+                "Plate",
+                "Pot",
+                "Potato",
+                "SaltShaker",
+                "Sink",
+                "SinkBasin",
+                "SoapBottle",
+                "Spatula",
+                "Spoon",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "Toaster",
+                "Tomato",
+                "Window",
+                "Window"
+            ]
+        }
+    },
+    {
+        "speaker": "Human",
+        "utterance": "yes",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:21.150576Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": [
+                "Apple",
+                "Bowl",
+                "Bread",
+                "ButterKnife",
+                "Cabinet",
+                "Cabinet",
+                "CoffeeMachine",
+                "CounterTop",
+                "CounterTop",
+                "CounterTop",
+                "Cup",
+                "DiningTable",
+                "DishSponge",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Egg",
+                "Faucet",
+                "Floor",
+                "Fork",
+                "Fridge",
+                "GarbageCan",
+                "HousePlant",
+                "Knife",
+                "Ladle",
+                "Lettuce",
+                "LightSwitch",
+                "Microwave",
+                "Mug",
+                "Pan",
+                "PepperShaker",
+                "Plate",
+                "Pot",
+                "Potato",
+                "SaltShaker",
+                "Sink",
+                "SinkBasin",
+                "SoapBottle",
+                "Spatula",
+                "Spoon",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "Toaster",
+                "Tomato",
+                "Window",
+                "Window"
+            ]
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Object found and confirmed!",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:21.282615Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": [
+                "Apple",
+                "Bowl",
+                "Bread",
+                "ButterKnife",
+                "Cabinet",
+                "Cabinet",
+                "CoffeeMachine",
+                "CounterTop",
+                "CounterTop",
+                "CounterTop",
+                "Cup",
+                "DiningTable",
+                "DishSponge",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Egg",
+                "Faucet",
+                "Floor",
+                "Fork",
+                "Fridge",
+                "GarbageCan",
+                "HousePlant",
+                "Knife",
+                "Ladle",
+                "Lettuce",
+                "LightSwitch",
+                "Microwave",
+                "Mug",
+                "Pan",
+                "PepperShaker",
+                "Plate",
+                "Pot",
+                "Potato",
+                "SaltShaker",
+                "Sink",
+                "SinkBasin",
+                "SoapBottle",
+                "Spatula",
+                "Spoon",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "Toaster",
+                "Tomato",
+                "Window",
+                "Window"
+            ]
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Object found successfully.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:21.282729Z",
+        "context": {
+            "current_floorplan": "FloorPlan1_physics",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Scenario saved.",
+        "action": "save_scenario",
+        "timestamp": "2024-12-23T13:54:21.282767Z",
+        "context": {
+            "current_floorplan": "N/A",
+            "visible_objects": []
+        }
+    },
+    {
+        "speaker": "Human",
+        "utterance": "exit",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:25.952245Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": [
+                "Apple",
+                "Bowl",
+                "Bread",
+                "ButterKnife",
+                "Cabinet",
+                "Cabinet",
+                "CoffeeMachine",
+                "CounterTop",
+                "CounterTop",
+                "CounterTop",
+                "Cup",
+                "DiningTable",
+                "DishSponge",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Egg",
+                "Faucet",
+                "Floor",
+                "Fork",
+                "Fridge",
+                "GarbageCan",
+                "HousePlant",
+                "Knife",
+                "Ladle",
+                "Lettuce",
+                "LightSwitch",
+                "Microwave",
+                "Mug",
+                "Pan",
+                "PepperShaker",
+                "Plate",
+                "Pot",
+                "Potato",
+                "SaltShaker",
+                "Sink",
+                "SinkBasin",
+                "SoapBottle",
+                "Spatula",
+                "Spoon",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "Toaster",
+                "Tomato",
+                "Window",
+                "Window"
+            ]
+        }
+    },
+    {
+        "speaker": "System",
+        "utterance": "Exiting the program.",
+        "action": "utterance",
+        "timestamp": "2024-12-23T13:54:25.952513Z",
+        "context": {
+            "current_floorplan": "FloorPlan4_physics",
+            "visible_objects": [
+                "Apple",
+                "Bowl",
+                "Bread",
+                "ButterKnife",
+                "Cabinet",
+                "Cabinet",
+                "CoffeeMachine",
+                "CounterTop",
+                "CounterTop",
+                "CounterTop",
+                "Cup",
+                "DiningTable",
+                "DishSponge",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Drawer",
+                "Egg",
+                "Faucet",
+                "Floor",
+                "Fork",
+                "Fridge",
+                "GarbageCan",
+                "HousePlant",
+                "Knife",
+                "Ladle",
+                "Lettuce",
+                "LightSwitch",
+                "Microwave",
+                "Mug",
+                "Pan",
+                "PepperShaker",
+                "Plate",
+                "Pot",
+                "Potato",
+                "SaltShaker",
+                "Sink",
+                "SinkBasin",
+                "SoapBottle",
+                "Spatula",
+                "Spoon",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveBurner",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "StoveKnob",
+                "Toaster",
+                "Tomato",
+                "Window",
+                "Window"
+            ]
+        }
+    }
+]
