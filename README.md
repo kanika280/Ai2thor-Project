@@ -36,7 +36,7 @@ Type "exit" or "quit" to terminate the program.
 
 Run the program using:
 
-python <ai2thorprojectdefault>.py
+python ai2thorprojectdefault.py
 
 Project Structure
 
