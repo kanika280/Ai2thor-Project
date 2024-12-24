@@ -1,4 +1,4 @@
-#AI2THOR Object Search Agent
+AI2THOR Object Search Agent
 
 Overview
 This project demonstrates a socially intelligent agent capable of collaborating with a human to locate and identify objects in simulated AI2-THOR environments. The agent minimizes physical actions by prioritizing dialogue-driven interactions and provides visual and verbal feedback for efficient and accurate object identification.
